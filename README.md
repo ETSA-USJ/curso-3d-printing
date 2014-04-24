@@ -4,10 +4,10 @@ Curso 3D printing: Montaje de una Prusa Mendel IT2
 Curso 2031-14
 
 ### Responsables del curso
-David Álvarez
-Javier Álvarez
-Carlos Cámara
-Antonio Estepa
+* David Álvarez
+* Javier Álvarez
+* Carlos Cámara
+* Antonio Estepa
 
 ## Documentación
 
