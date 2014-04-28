@@ -2,6 +2,7 @@ Curso 3D printing: Montaje de una Prusa Mendel IT2
 ============================================
 
 Curso 2031-14
+![img](documentacion/Curso montaje impresora 3D - 72.png)
 
 ### Responsables del curso
 * David Álvarez
